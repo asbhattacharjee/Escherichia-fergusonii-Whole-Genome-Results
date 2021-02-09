@@ -1,4 +1,0 @@
-     2 ERROR:   SEQ_FEAT.FeatureBeginsOrEndsInGap
-    31 ERROR:   SEQ_FEAT.InvalidInferenceValue
-    45 WARNING: SEQ_FEAT.BadEcNumberValue
-    12 WARNING: SEQ_FEAT.ProteinNameEndsInBracket
