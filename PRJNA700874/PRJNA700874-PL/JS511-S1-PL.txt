@@ -1,0 +1,5 @@
+organism: Escherichia species strain 
+contigs: 1
+bases: 55286
+CDS: 57
+gene: 57

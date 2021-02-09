@@ -1,0 +1,115 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JS511-S1-PL_00001	gene	378	groL			
+JS511-S1-PL_00001	CDS	378	groL		COG0459	60 kDa chaperonin
+JS511-S1-PL_00002	gene	549				
+JS511-S1-PL_00002	CDS	549				hypothetical protein
+JS511-S1-PL_00003	gene	756	rmtB			
+JS511-S1-PL_00003	CDS	756	rmtB	2.1.1.179		16S rRNA (guanine(1405)-N(7))-methyltransferase
+JS511-S1-PL_00004	gene	861	bla			
+JS511-S1-PL_00004	CDS	861	bla	3.5.2.6		Beta-lactamase TEM
+JS511-S1-PL_00005	gene	558	tnpR			
+JS511-S1-PL_00005	CDS	558	tnpR			Transposon Tn3 resolvase
+JS511-S1-PL_00006	gene	3006				
+JS511-S1-PL_00006	CDS	3006				Tn3 family transposase Tn2
+JS511-S1-PL_00007	gene	591				
+JS511-S1-PL_00007	CDS	591				hypothetical protein
+JS511-S1-PL_00008	gene	1557				
+JS511-S1-PL_00008	CDS	1557				hypothetical protein
+JS511-S1-PL_00009	gene	618				
+JS511-S1-PL_00009	CDS	618				hypothetical protein
+JS511-S1-PL_00010	gene	993				
+JS511-S1-PL_00010	CDS	993				hypothetical protein
+JS511-S1-PL_00011	gene	858				
+JS511-S1-PL_00011	CDS	858				hypothetical protein
+JS511-S1-PL_00012	gene	255				
+JS511-S1-PL_00012	CDS	255				hypothetical protein
+JS511-S1-PL_00013	gene	591				
+JS511-S1-PL_00013	CDS	591				hypothetical protein
+JS511-S1-PL_00014	gene	462	yhcR			
+JS511-S1-PL_00014	CDS	462	yhcR	3.1.31.-	COG0737	Endonuclease YhcR
+JS511-S1-PL_00015	gene	255				
+JS511-S1-PL_00015	CDS	255				hypothetical protein
+JS511-S1-PL_00016	gene	126				
+JS511-S1-PL_00016	CDS	126				hypothetical protein
+JS511-S1-PL_00017	gene	678				
+JS511-S1-PL_00017	CDS	678				hypothetical protein
+JS511-S1-PL_00018	gene	561	finO			
+JS511-S1-PL_00018	CDS	561	finO			Fertility inhibition protein
+JS511-S1-PL_00019	gene	747				
+JS511-S1-PL_00019	CDS	747				hypothetical protein
+JS511-S1-PL_00020	gene	5271	traI			
+JS511-S1-PL_00020	CDS	5271	traI			Multifunctional conjugation protein TraI
+JS511-S1-PL_00021	gene	2199	traD			
+JS511-S1-PL_00021	CDS	2199	traD			Coupling protein TraD
+JS511-S1-PL_00022	gene	732	ylpA			
+JS511-S1-PL_00022	CDS	732	ylpA			Lipoprotein YlpA
+JS511-S1-PL_00023	gene	510	traS			
+JS511-S1-PL_00023	CDS	510	traS			Protein TraS
+JS511-S1-PL_00024	gene	2826				
+JS511-S1-PL_00024	CDS	2826				hypothetical protein
+JS511-S1-PL_00025	gene	1374				
+JS511-S1-PL_00025	CDS	1374				hypothetical protein
+JS511-S1-PL_00026	gene	303				
+JS511-S1-PL_00026	CDS	303				hypothetical protein
+JS511-S1-PL_00027	gene	546				
+JS511-S1-PL_00027	CDS	546				hypothetical protein
+JS511-S1-PL_00028	gene	285	traQ			
+JS511-S1-PL_00028	CDS	285	traQ			Protein TraQ
+JS511-S1-PL_00029	gene	348				
+JS511-S1-PL_00029	CDS	348				hypothetical protein
+JS511-S1-PL_00030	gene	774				
+JS511-S1-PL_00030	CDS	774				hypothetical protein
+JS511-S1-PL_00031	gene	258				
+JS511-S1-PL_00031	CDS	258				hypothetical protein
+JS511-S1-PL_00032	gene	1809	traN			
+JS511-S1-PL_00032	CDS	1809	traN			Mating pair stabilization protein TraN
+JS511-S1-PL_00033	gene	639				
+JS511-S1-PL_00033	CDS	639				hypothetical protein
+JS511-S1-PL_00034	gene	993				
+JS511-S1-PL_00034	CDS	993				hypothetical protein
+JS511-S1-PL_00035	gene	633				
+JS511-S1-PL_00035	CDS	633				hypothetical protein
+JS511-S1-PL_00036	gene	387				
+JS511-S1-PL_00036	CDS	387				hypothetical protein
+JS511-S1-PL_00037	gene	2631	traC			
+JS511-S1-PL_00037	CDS	2631	traC			Protein TraC
+JS511-S1-PL_00038	gene	363				
+JS511-S1-PL_00038	CDS	363				hypothetical protein
+JS511-S1-PL_00039	gene	477				
+JS511-S1-PL_00039	CDS	477				hypothetical protein
+JS511-S1-PL_00040	gene	516	traV			
+JS511-S1-PL_00040	CDS	516	traV			Protein TraV
+JS511-S1-PL_00041	gene	252				
+JS511-S1-PL_00041	CDS	252				hypothetical protein
+JS511-S1-PL_00042	gene	321				
+JS511-S1-PL_00042	CDS	321				hypothetical protein
+JS511-S1-PL_00043	gene	591				
+JS511-S1-PL_00043	CDS	591				hypothetical protein
+JS511-S1-PL_00044	gene	1428				
+JS511-S1-PL_00044	CDS	1428				hypothetical protein
+JS511-S1-PL_00045	gene	729				
+JS511-S1-PL_00045	CDS	729				hypothetical protein
+JS511-S1-PL_00046	gene	567				
+JS511-S1-PL_00046	CDS	567				hypothetical protein
+JS511-S1-PL_00047	gene	312				
+JS511-S1-PL_00047	CDS	312				hypothetical protein
+JS511-S1-PL_00048	gene	360	traA			
+JS511-S1-PL_00048	CDS	360	traA			Pilin
+JS511-S1-PL_00049	gene	234				
+JS511-S1-PL_00049	CDS	234				hypothetical protein
+JS511-S1-PL_00050	gene	687	traJ			
+JS511-S1-PL_00050	CDS	687	traJ			Protein TraJ
+JS511-S1-PL_00051	gene	384	traM			
+JS511-S1-PL_00051	CDS	384	traM			Relaxosome protein TraM
+JS511-S1-PL_00052	gene	648				
+JS511-S1-PL_00052	CDS	648				hypothetical protein
+JS511-S1-PL_00053	gene	822				
+JS511-S1-PL_00053	CDS	822				hypothetical protein
+JS511-S1-PL_00054	gene	288				
+JS511-S1-PL_00054	CDS	288				hypothetical protein
+JS511-S1-PL_00055	gene	684				
+JS511-S1-PL_00055	CDS	684				hypothetical protein
+JS511-S1-PL_00056	gene	267				
+JS511-S1-PL_00056	CDS	267				hypothetical protein
+JS511-S1-PL_00057	gene	498				
+JS511-S1-PL_00057	CDS	498				hypothetical protein

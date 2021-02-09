@@ -1,0 +1,1 @@
+ERROR: valid [SEQ_FEAT.InvalidInferenceValue] Inference qualifier problem - unrecognized database (similar to AA sequence:ISfinder:Tn2) FEATURE: CDS: Tn3 family transposase Tn2 [gnl|Prokka|JS511-S1-PL_1:3935-6940] [gnl|Prokka|JS511-S1-PL_1: raw, dna len= 55286] -> [gnl|Prokka|JS511-S1-PL_00006]

@@ -1,0 +1,100 @@
+[17:32:21] This is prokka 1.14.6
+[17:32:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:32:21] Homepage is https://github.com/tseemann/prokka
+[17:32:21] Local time is Tue Feb  9 17:32:21 2021
+[17:32:21] You are anandabhattacharjee
+[17:32:21] Operating system is darwin
+[17:32:21] You have BioPerl 1.007002
+[17:32:21] System has 4 cores.
+[17:32:21] Option --cpu asked for 8 cores, but system only has 4
+[17:32:21] Will use maximum of 4 cores.
+[17:32:21] Annotating as >>> Bacteria <<<
+[17:32:21] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[17:32:21] Creating new output folder: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL
+[17:32:21] Running: mkdir -p \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL
+[17:32:21] Using filename prefix: JS511-S1-PL.XXX
+[17:32:21] Setting HMMER_NCPU=1
+[17:32:21] Writing log to: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.log
+[17:32:21] Command: /opt/anaconda3/envs/PROKKA/bin/prokka --kingdom Bacteria --genus Escherichia --compliant --outdir /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL --locustag JS511-S1-PL --prefix JS511-S1-PL S1-Plasmid-Concat.fasta
+[17:32:21] Appending to PATH: /opt/anaconda3/envs/PROKKA/bin
+[17:32:21] Looking for 'aragorn' - found /opt/anaconda3/envs/PROKKA/bin/aragorn
+[17:32:21] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[17:32:21] Looking for 'barrnap' - found /opt/anaconda3/envs/PROKKA/bin/barrnap
+[17:32:21] Determined barrnap version is 000009 from 'barrnap 0.9'
+[17:32:21] Looking for 'blastp' - found /opt/anaconda3/envs/PROKKA/bin/blastp
+[17:32:21] Determined blastp version is 002010 from 'blastp: 2.10.1+'
+[17:32:21] Looking for 'cmpress' - found /opt/anaconda3/envs/PROKKA/bin/cmpress
+[17:32:21] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[17:32:21] Looking for 'cmscan' - found /opt/anaconda3/envs/PROKKA/bin/cmscan
+[17:32:21] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[17:32:21] Looking for 'egrep' - found /usr/bin/egrep
+[17:32:21] Looking for 'find' - found /usr/bin/find
+[17:32:21] Looking for 'grep' - found /usr/bin/grep
+[17:32:21] Looking for 'hmmpress' - found /opt/anaconda3/envs/PROKKA/bin/hmmpress
+[17:32:21] Determined hmmpress version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[17:32:21] Looking for 'hmmscan' - found /opt/anaconda3/envs/PROKKA/bin/hmmscan
+[17:32:21] Determined hmmscan version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[17:32:21] Looking for 'java' - found /opt/anaconda3/envs/PROKKA/bin/java
+[17:32:21] Looking for 'makeblastdb' - found /opt/anaconda3/envs/PROKKA/bin/makeblastdb
+[17:32:21] Determined makeblastdb version is 002010 from 'makeblastdb: 2.10.1+'
+[17:32:21] Looking for 'minced' - found /opt/anaconda3/envs/PROKKA/bin/minced
+[17:32:21] Determined minced version is 004002 from 'minced 0.4.2'
+[17:32:21] Looking for 'parallel' - found /opt/anaconda3/envs/PROKKA/bin/parallel
+[17:32:22] Determined parallel version is 20200722 from 'GNU parallel 20200722'
+[17:32:22] Looking for 'prodigal' - found /opt/anaconda3/envs/PROKKA/bin/prodigal
+[17:32:22] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[17:32:22] Looking for 'prokka-genbank_to_fasta_db' - found /opt/anaconda3/envs/PROKKA/bin/prokka-genbank_to_fasta_db
+[17:32:22] Looking for 'sed' - found /usr/bin/sed
+[17:32:22] Looking for 'tbl2asn' - found /opt/anaconda3/envs/PROKKA/bin/tbl2asn
+[17:32:22] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[17:32:22] Using genetic code table 11.
+[17:32:22] Loading and checking input file: S1-Plasmid-Concat.fasta
+[17:32:22] Wrote 1 contigs totalling 55286 bp.
+[17:32:22] Predicting tRNAs and tmRNAs
+[17:32:22] Running: aragorn -l -gc11  -w \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.fna
+[17:32:22] Found 0 tRNAs
+[17:32:22] Predicting Ribosomal RNAs
+[17:32:22] Running Barrnap with 4 threads
+[17:32:22] Found 0 rRNAs
+[17:32:22] Skipping ncRNA search, enable with --rfam if desired.
+[17:32:22] Total of 0 tRNA + rRNA features
+[17:32:22] Searching for CRISPR repeats
+[17:32:22] Found 0 CRISPRs
+[17:32:22] Predicting coding sequences
+[17:32:22] Contigs total 55286 bp, so using meta mode
+[17:32:22] Running: prodigal -i \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.fna -c -m -g 11 -p meta -f sco -q
+[17:32:23] Found 57 CDS
+[17:32:23] Connecting features back to sequences
+[17:32:23] Not using genus-specific database. Try --usegenus to enable it.
+[17:32:23] Annotating CDS, please be patient.
+[17:32:23] Will use 4 CPUs for similarity searching.
+[17:32:23] There are still 57 unannotated CDS left (started with 57)
+[17:32:23] Will use blast to search against /opt/anaconda3/envs/PROKKA/db/kingdom/Bacteria/IS with 4 CPUs
+[17:32:23] Running: cat \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.IS\.tmp\.7114\.faa | parallel --gnu --plain -j 4 --block 2000 --recstart '>' --pipe blastp -query - -db /opt/anaconda3/envs/PROKKA/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.IS\.tmp\.7114\.blast 2> /dev/null
+[17:32:24] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.IS.tmp.7114.faa
+[17:32:24] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.IS.tmp.7114.blast
+[17:32:24] There are still 56 unannotated CDS left (started with 57)
+[17:32:24] Will use blast to search against /opt/anaconda3/envs/PROKKA/db/kingdom/Bacteria/AMR with 4 CPUs
+[17:32:24] Running: cat \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.AMR\.tmp\.7114\.faa | parallel --gnu --plain -j 4 --block 1874 --recstart '>' --pipe blastp -query - -db /opt/anaconda3/envs/PROKKA/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.AMR\.tmp\.7114\.blast 2> /dev/null
+[17:32:25] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.AMR.tmp.7114.faa
+[17:32:25] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.AMR.tmp.7114.blast
+[17:32:25] There are still 56 unannotated CDS left (started with 57)
+[17:32:25] Will use blast to search against /opt/anaconda3/envs/PROKKA/db/kingdom/Bacteria/sprot with 4 CPUs
+[17:32:25] Running: cat \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.sprot\.tmp\.7114\.faa | parallel --gnu --plain -j 4 --block 1874 --recstart '>' --pipe blastp -query - -db /opt/anaconda3/envs/PROKKA/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.sprot\.tmp\.7114\.blast 2> /dev/null
+[17:32:27] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.sprot.tmp.7114.faa
+[17:32:27] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.sprot.tmp.7114.blast
+[17:32:27] There are still 39 unannotated CDS left (started with 57)
+[17:32:27] Will use hmmer3 to search against /opt/anaconda3/envs/PROKKA/db/hmm/HAMAP.hmm with 4 CPUs
+[17:32:27] Running: cat \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.HAMAP\.hmm\.tmp\.7114\.faa | parallel --gnu --plain -j 4 --block 1075 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /opt/anaconda3/envs/PROKKA/db/hmm/HAMAP.hmm /dev/stdin > \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.HAMAP\.hmm\.tmp\.7114\.hmmer3 2> /dev/null
+[17:32:28] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.HAMAP.hmm.tmp.7114.faa
+[17:32:28] Deleting unwanted file: /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/JS511-S1-PL.HAMAP.hmm.tmp.7114.hmmer3
+[17:32:28] Labelling remaining 39 proteins as 'hypothetical protein'
+[17:32:28] Found 17 unique /gene codes.
+[17:32:28] Fixed 0 colliding /gene names.
+[17:32:28] Adding /locus_tag identifiers
+[17:32:28] Assigned 57 locus_tags to CDS and RNA features.
+[17:32:28] Writing outputs to /Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA700874-PL/
+[17:32:28] Generating annotation statistics file
+[17:32:28] Generating Genbank and Sequin files
+[17:32:28] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.err -i \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.fsa 2> /dev/null
+[17:32:28] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.err -i \/Volumes\/Ananda_Bioinformatics\/Bioinformatic\-Work\-July\-2020\/Quinn\/S1\/PRJNA700874\-PL\/JS511\-S1\-PL\.fsa 2> /dev/null

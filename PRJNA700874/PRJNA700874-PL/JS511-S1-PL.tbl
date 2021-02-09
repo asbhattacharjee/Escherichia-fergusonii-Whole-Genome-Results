@@ -1,0 +1,457 @@
+>Feature gnl|Prokka|JS511-S1-PL_1
+581	204	gene
+			gene	groL
+			locus_tag	JS511-S1-PL_00001
+581	204	CDS
+			db_xref	COG:COG0459
+			gene	groL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2NW94
+			locus_tag	JS511-S1-PL_00001
+			product	60 kDa chaperonin
+			protein_id	gnl|Prokka|JS511-S1-PL_00001
+617	1165	gene
+			locus_tag	JS511-S1-PL_00002
+617	1165	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00002
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00002
+2001	1246	gene
+			gene	rmtB
+			locus_tag	JS511-S1-PL_00003
+2001	1246	CDS
+			EC_number	2.1.1.179
+			gene	rmtB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q76G15
+			locus_tag	JS511-S1-PL_00003
+			product	16S rRNA (guanine(1405)-N(7))-methyltransferase
+			protein_id	gnl|Prokka|JS511-S1-PL_00003
+3031	2171	gene
+			gene	bla
+			locus_tag	JS511-S1-PL_00004
+3031	2171	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62593
+			locus_tag	JS511-S1-PL_00004
+			product	Beta-lactamase TEM
+			protein_id	gnl|Prokka|JS511-S1-PL_00004
+3771	3214	gene
+			gene	tnpR
+			locus_tag	JS511-S1-PL_00005
+3771	3214	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	JS511-S1-PL_00005
+			product	Transposon Tn3 resolvase
+			protein_id	gnl|Prokka|JS511-S1-PL_00005
+3935	6940	gene
+			locus_tag	JS511-S1-PL_00006
+3935	6940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:Tn2
+			locus_tag	JS511-S1-PL_00006
+			product	Tn3 family transposase Tn2
+			protein_id	gnl|Prokka|JS511-S1-PL_00006
+7107	7697	gene
+			locus_tag	JS511-S1-PL_00007
+7107	7697	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00007
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00007
+7962	9518	gene
+			locus_tag	JS511-S1-PL_00008
+7962	9518	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00008
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00008
+9713	10330	gene
+			locus_tag	JS511-S1-PL_00009
+9713	10330	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00009
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00009
+11381	10389	gene
+			locus_tag	JS511-S1-PL_00010
+11381	10389	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00010
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00010
+13154	12297	gene
+			locus_tag	JS511-S1-PL_00011
+13154	12297	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00011
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00011
+13713	13459	gene
+			locus_tag	JS511-S1-PL_00012
+13713	13459	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00012
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00012
+14543	13953	gene
+			locus_tag	JS511-S1-PL_00013
+14543	13953	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00013
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00013
+15297	14836	gene
+			gene	yhcR
+			locus_tag	JS511-S1-PL_00014
+15297	14836	CDS
+			EC_number	3.1.31.-
+			db_xref	COG:COG0737
+			gene	yhcR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54602
+			locus_tag	JS511-S1-PL_00014
+			product	Endonuclease YhcR
+			protein_id	gnl|Prokka|JS511-S1-PL_00014
+15749	15495	gene
+			locus_tag	JS511-S1-PL_00015
+15749	15495	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00015
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00015
+16410	16285	gene
+			locus_tag	JS511-S1-PL_00016
+16410	16285	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00016
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00016
+17084	16407	gene
+			locus_tag	JS511-S1-PL_00017
+17084	16407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00017
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00017
+18274	17714	gene
+			gene	finO
+			locus_tag	JS511-S1-PL_00018
+18274	17714	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	JS511-S1-PL_00018
+			product	Fertility inhibition protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00018
+19075	18329	gene
+			locus_tag	JS511-S1-PL_00019
+19075	18329	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00019
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00019
+24365	19095	gene
+			gene	traI
+			locus_tag	JS511-S1-PL_00020
+24365	19095	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	JS511-S1-PL_00020
+			product	Multifunctional conjugation protein TraI
+			protein_id	gnl|Prokka|JS511-S1-PL_00020
+26563	24365	gene
+			gene	traD
+			locus_tag	JS511-S1-PL_00021
+26563	24365	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	JS511-S1-PL_00021
+			product	Coupling protein TraD
+			protein_id	gnl|Prokka|JS511-S1-PL_00021
+27547	26816	gene
+			gene	ylpA
+			locus_tag	JS511-S1-PL_00022
+27547	26816	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	JS511-S1-PL_00022
+			product	Lipoprotein YlpA
+			protein_id	gnl|Prokka|JS511-S1-PL_00022
+28070	27561	gene
+			gene	traS
+			locus_tag	JS511-S1-PL_00023
+28070	27561	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	JS511-S1-PL_00023
+			product	Protein TraS
+			protein_id	gnl|Prokka|JS511-S1-PL_00023
+30892	28067	gene
+			locus_tag	JS511-S1-PL_00024
+30892	28067	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00024
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00024
+32262	30889	gene
+			locus_tag	JS511-S1-PL_00025
+32262	30889	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00025
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00025
+32564	32262	gene
+			locus_tag	JS511-S1-PL_00026
+32564	32262	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00026
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00026
+33099	32554	gene
+			locus_tag	JS511-S1-PL_00027
+33099	32554	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00027
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00027
+33370	33086	gene
+			gene	traQ
+			locus_tag	JS511-S1-PL_00028
+33370	33086	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	JS511-S1-PL_00028
+			product	Protein TraQ
+			protein_id	gnl|Prokka|JS511-S1-PL_00028
+33836	33489	gene
+			locus_tag	JS511-S1-PL_00029
+33836	33489	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00029
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00029
+34625	33852	gene
+			locus_tag	JS511-S1-PL_00030
+34625	33852	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00030
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00030
+34845	34588	gene
+			locus_tag	JS511-S1-PL_00031
+34845	34588	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00031
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00031
+36680	34872	gene
+			gene	traN
+			locus_tag	JS511-S1-PL_00032
+36680	34872	CDS
+			gene	traN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24082
+			locus_tag	JS511-S1-PL_00032
+			product	Mating pair stabilization protein TraN
+			protein_id	gnl|Prokka|JS511-S1-PL_00032
+37315	36677	gene
+			locus_tag	JS511-S1-PL_00033
+37315	36677	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00033
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00033
+38316	37324	gene
+			locus_tag	JS511-S1-PL_00034
+38316	37324	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00034
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00034
+38945	38313	gene
+			locus_tag	JS511-S1-PL_00035
+38945	38313	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00035
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00035
+39328	38942	gene
+			locus_tag	JS511-S1-PL_00036
+39328	38942	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00036
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00036
+41955	39325	gene
+			gene	traC
+			locus_tag	JS511-S1-PL_00037
+41955	39325	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	JS511-S1-PL_00037
+			product	Protein TraC
+			protein_id	gnl|Prokka|JS511-S1-PL_00037
+42443	42081	gene
+			locus_tag	JS511-S1-PL_00038
+42443	42081	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00038
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00038
+43241	42765	gene
+			locus_tag	JS511-S1-PL_00039
+43241	42765	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00039
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00039
+44105	43590	gene
+			gene	traV
+			locus_tag	JS511-S1-PL_00040
+44105	43590	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	JS511-S1-PL_00040
+			product	Protein TraV
+			protein_id	gnl|Prokka|JS511-S1-PL_00040
+44353	44102	gene
+			locus_tag	JS511-S1-PL_00041
+44353	44102	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00041
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00041
+44666	44346	gene
+			locus_tag	JS511-S1-PL_00042
+44666	44346	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00042
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00042
+45243	44653	gene
+			locus_tag	JS511-S1-PL_00043
+45243	44653	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00043
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00043
+46660	45233	gene
+			locus_tag	JS511-S1-PL_00044
+46660	45233	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00044
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00044
+47388	46660	gene
+			locus_tag	JS511-S1-PL_00045
+47388	46660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00045
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00045
+47941	47375	gene
+			locus_tag	JS511-S1-PL_00046
+47941	47375	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00046
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00046
+48274	47963	gene
+			locus_tag	JS511-S1-PL_00047
+48274	47963	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00047
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00047
+48648	48289	gene
+			gene	traA
+			locus_tag	JS511-S1-PL_00048
+48648	48289	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	JS511-S1-PL_00048
+			product	Pilin
+			protein_id	gnl|Prokka|JS511-S1-PL_00048
+48766	48999	gene
+			locus_tag	JS511-S1-PL_00049
+48766	48999	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00049
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00049
+49689	49003	gene
+			gene	traJ
+			locus_tag	JS511-S1-PL_00050
+49689	49003	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05837
+			locus_tag	JS511-S1-PL_00050
+			product	Protein TraJ
+			protein_id	gnl|Prokka|JS511-S1-PL_00050
+50263	49880	gene
+			gene	traM
+			locus_tag	JS511-S1-PL_00051
+50263	49880	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P13973
+			locus_tag	JS511-S1-PL_00051
+			product	Relaxosome protein TraM
+			protein_id	gnl|Prokka|JS511-S1-PL_00051
+50540	51187	gene
+			locus_tag	JS511-S1-PL_00052
+50540	51187	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00052
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00052
+52305	51484	gene
+			locus_tag	JS511-S1-PL_00053
+52305	51484	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00053
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00053
+52710	52423	gene
+			locus_tag	JS511-S1-PL_00054
+52710	52423	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00054
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00054
+53626	52943	gene
+			locus_tag	JS511-S1-PL_00055
+53626	52943	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00055
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00055
+54758	54492	gene
+			locus_tag	JS511-S1-PL_00056
+54758	54492	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00056
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00056
+55259	54762	gene
+			locus_tag	JS511-S1-PL_00057
+55259	54762	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS511-S1-PL_00057
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS511-S1-PL_00057
