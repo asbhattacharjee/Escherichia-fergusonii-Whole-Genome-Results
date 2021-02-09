@@ -1,0 +1,461 @@
+>Feature gnl|Prokka|JS526-PL_1
+494	1249	gene
+			gene	repE
+			locus_tag	JS526-PL_00001
+494	1249	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	JS526-PL_00001
+			product	Replication initiation protein
+			protein_id	gnl|Prokka|JS526-PL_00001
+1837	3003	gene
+			locus_tag	JS526-PL_00002
+1837	3003	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00002
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00002
+3003	3815	gene
+			gene	sopB
+			locus_tag	JS526-PL_00003
+3003	3815	CDS
+			gene	sopB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62558
+			locus_tag	JS526-PL_00003
+			product	Protein SopB
+			protein_id	gnl|Prokka|JS526-PL_00003
+4136	3702	gene
+			locus_tag	JS526-PL_00004
+4136	3702	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00004
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00004
+4948	5100	gene
+			locus_tag	JS526-PL_00005
+4948	5100	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00005
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00005
+5927	5070	gene
+			locus_tag	JS526-PL_00006
+5927	5070	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00006
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00006
+6402	5920	gene
+			locus_tag	JS526-PL_00007
+6402	5920	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00007
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00007
+6960	6703	gene
+			locus_tag	JS526-PL_00008
+6960	6703	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00008
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00008
+7450	7244	gene
+			locus_tag	JS526-PL_00009
+7450	7244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00009
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00009
+8034	8573	gene
+			gene	ssb
+			locus_tag	JS526-PL_00010
+8034	8573	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28044
+			locus_tag	JS526-PL_00010
+			product	Plasmid-derived single-stranded DNA-binding protein
+			protein_id	gnl|Prokka|JS526-PL_00010
+8630	8863	gene
+			locus_tag	JS526-PL_00011
+8630	8863	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	JS526-PL_00011
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00011
+8929	10887	gene
+			gene	noc
+			locus_tag	JS526-PL_00012
+8929	10887	CDS
+			gene	noc
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02015
+			locus_tag	JS526-PL_00012
+			product	Nucleoid occlusion protein
+			protein_id	gnl|Prokka|JS526-PL_00012
+10942	11376	gene
+			gene	psiB
+			locus_tag	JS526-PL_00013
+10942	11376	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	JS526-PL_00013
+			product	Protein PsiB
+			protein_id	gnl|Prokka|JS526-PL_00013
+11373	12092	gene
+			locus_tag	JS526-PL_00014
+11373	12092	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00014
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00014
+12309	12521	gene
+			gene	flmC
+			locus_tag	JS526-PL_00015
+12309	12521	CDS
+			gene	flmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11519
+			locus_tag	JS526-PL_00015
+			product	Protein FlmC
+			protein_id	gnl|Prokka|JS526-PL_00015
+14290	14102	gene
+			locus_tag	JS526-PL_00016
+14290	14102	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00016
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00016
+14985	14425	gene
+			gene	finO
+			locus_tag	JS526-PL_00017
+14985	14425	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	JS526-PL_00017
+			product	Fertility inhibition protein
+			protein_id	gnl|Prokka|JS526-PL_00017
+15786	15040	gene
+			locus_tag	JS526-PL_00018
+15786	15040	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00018
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00018
+21073	15806	gene
+			gene	traI
+			locus_tag	JS526-PL_00019
+21073	15806	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	JS526-PL_00019
+			product	Multifunctional conjugation protein TraI
+			protein_id	gnl|Prokka|JS526-PL_00019
+21480	21070	gene
+			locus_tag	JS526-PL_00020
+21480	21070	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00020
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00020
+22481	21489	gene
+			locus_tag	JS526-PL_00021
+22481	21489	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00021
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00021
+23110	22478	gene
+			locus_tag	JS526-PL_00022
+23110	22478	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00022
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00022
+23493	23107	gene
+			locus_tag	JS526-PL_00023
+23493	23107	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00023
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00023
+26117	23490	gene
+			gene	traC
+			locus_tag	JS526-PL_00024
+26117	23490	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	JS526-PL_00024
+			product	Protein TraC
+			protein_id	gnl|Prokka|JS526-PL_00024
+26284	26180	gene
+			locus_tag	JS526-PL_00025
+26284	26180	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00025
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00025
+27148	26633	gene
+			gene	traV
+			locus_tag	JS526-PL_00026
+27148	26633	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	JS526-PL_00026
+			product	Protein TraV
+			protein_id	gnl|Prokka|JS526-PL_00026
+27396	27145	gene
+			locus_tag	JS526-PL_00027
+27396	27145	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00027
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00027
+27605	27408	gene
+			locus_tag	JS526-PL_00028
+27605	27408	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00028
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00028
+28182	27592	gene
+			locus_tag	JS526-PL_00029
+28182	27592	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00029
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00029
+29599	28172	gene
+			locus_tag	JS526-PL_00030
+29599	28172	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00030
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00030
+30327	29599	gene
+			locus_tag	JS526-PL_00031
+30327	29599	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00031
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00031
+30880	30314	gene
+			locus_tag	JS526-PL_00032
+30880	30314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00032
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00032
+31213	30902	gene
+			locus_tag	JS526-PL_00033
+31213	30902	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00033
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00033
+31593	31228	gene
+			gene	traA
+			locus_tag	JS526-PL_00034
+31593	31228	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	JS526-PL_00034
+			product	Pilin
+			protein_id	gnl|Prokka|JS526-PL_00034
+32021	31626	gene
+			gene	traY
+			locus_tag	JS526-PL_00035
+32021	31626	CDS
+			gene	traY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06627
+			locus_tag	JS526-PL_00035
+			product	Relaxosome protein TraY
+			protein_id	gnl|Prokka|JS526-PL_00035
+32809	32120	gene
+			gene	traJ
+			locus_tag	JS526-PL_00036
+32809	32120	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06626
+			locus_tag	JS526-PL_00036
+			product	Protein TraJ
+			protein_id	gnl|Prokka|JS526-PL_00036
+33379	32996	gene
+			gene	traM
+			locus_tag	JS526-PL_00037
+33379	32996	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10026
+			locus_tag	JS526-PL_00037
+			product	Relaxosome protein TraM
+			protein_id	gnl|Prokka|JS526-PL_00037
+33793	34302	gene
+			locus_tag	JS526-PL_00038
+33793	34302	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00038
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00038
+34567	34794	gene
+			gene	vapB
+			locus_tag	JS526-PL_00039
+34567	34794	CDS
+			db_xref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06663
+			locus_tag	JS526-PL_00039
+			product	Antitoxin VapB
+			protein_id	gnl|Prokka|JS526-PL_00039
+34794	35192	gene
+			gene	vapC
+			locus_tag	JS526-PL_00040
+34794	35192	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06662
+			locus_tag	JS526-PL_00040
+			product	tRNA(fMet)-specific endonuclease VapC
+			protein_id	gnl|Prokka|JS526-PL_00040
+37354	35201	gene
+			gene	traD
+			locus_tag	JS526-PL_00041
+37354	35201	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	JS526-PL_00041
+			product	Coupling protein TraD
+			protein_id	gnl|Prokka|JS526-PL_00041
+38341	37607	gene
+			gene	ylpA
+			locus_tag	JS526-PL_00042
+38341	37607	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	JS526-PL_00042
+			product	Lipoprotein YlpA
+			protein_id	gnl|Prokka|JS526-PL_00042
+38884	38363	gene
+			gene	traS
+			locus_tag	JS526-PL_00043
+38884	38363	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	JS526-PL_00043
+			product	Protein TraS
+			protein_id	gnl|Prokka|JS526-PL_00043
+41733	38917	gene
+			locus_tag	JS526-PL_00044
+41733	38917	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00044
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00044
+43103	41730	gene
+			locus_tag	JS526-PL_00045
+43103	41730	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00045
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00045
+43483	43103	gene
+			locus_tag	JS526-PL_00046
+43483	43103	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00046
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00046
+43751	43470	gene
+			locus_tag	JS526-PL_00047
+43751	43470	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00047
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00047
+44286	43741	gene
+			locus_tag	JS526-PL_00048
+44286	43741	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00048
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00048
+44557	44273	gene
+			gene	traQ
+			locus_tag	JS526-PL_00049
+44557	44273	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	JS526-PL_00049
+			product	Protein TraQ
+			protein_id	gnl|Prokka|JS526-PL_00049
+44638	44952	gene
+			locus_tag	JS526-PL_00050
+44638	44952	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00050
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00050
+45301	44954	gene
+			locus_tag	JS526-PL_00051
+45301	44954	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00051
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00051
+46060	45317	gene
+			locus_tag	JS526-PL_00052
+46060	45317	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00052
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00052
+46310	46053	gene
+			locus_tag	JS526-PL_00053
+46310	46053	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00053
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00053
+48145	46337	gene
+			gene	traN
+			locus_tag	JS526-PL_00054
+48145	46337	CDS
+			gene	traN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24082
+			locus_tag	JS526-PL_00054
+			product	Mating pair stabilization protein TraN
+			protein_id	gnl|Prokka|JS526-PL_00054
+48411	48142	gene
+			locus_tag	JS526-PL_00055
+48411	48142	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00055
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00055
+48519	48806	gene
+			locus_tag	JS526-PL_00056
+48519	48806	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JS526-PL_00056
+			product	hypothetical protein
+			protein_id	gnl|Prokka|JS526-PL_00056

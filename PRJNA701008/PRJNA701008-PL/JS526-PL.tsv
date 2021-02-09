@@ -1,0 +1,113 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JS526-PL_00001	gene	756	repE			
+JS526-PL_00001	CDS	756	repE			Replication initiation protein
+JS526-PL_00002	gene	1167				
+JS526-PL_00002	CDS	1167				hypothetical protein
+JS526-PL_00003	gene	813	sopB			
+JS526-PL_00003	CDS	813	sopB			Protein SopB
+JS526-PL_00004	gene	435				
+JS526-PL_00004	CDS	435				hypothetical protein
+JS526-PL_00005	gene	153				
+JS526-PL_00005	CDS	153				hypothetical protein
+JS526-PL_00006	gene	858				
+JS526-PL_00006	CDS	858				hypothetical protein
+JS526-PL_00007	gene	483				
+JS526-PL_00007	CDS	483				hypothetical protein
+JS526-PL_00008	gene	258				
+JS526-PL_00008	CDS	258				hypothetical protein
+JS526-PL_00009	gene	207				
+JS526-PL_00009	CDS	207				hypothetical protein
+JS526-PL_00010	gene	540	ssb			
+JS526-PL_00010	CDS	540	ssb			Plasmid-derived single-stranded DNA-binding protein
+JS526-PL_00011	gene	234				
+JS526-PL_00011	CDS	234				hypothetical protein
+JS526-PL_00012	gene	1959	noc			
+JS526-PL_00012	CDS	1959	noc			Nucleoid occlusion protein
+JS526-PL_00013	gene	435	psiB			
+JS526-PL_00013	CDS	435	psiB			Protein PsiB
+JS526-PL_00014	gene	720				
+JS526-PL_00014	CDS	720				hypothetical protein
+JS526-PL_00015	gene	213	flmC			
+JS526-PL_00015	CDS	213	flmC			Protein FlmC
+JS526-PL_00016	gene	189				
+JS526-PL_00016	CDS	189				hypothetical protein
+JS526-PL_00017	gene	561	finO			
+JS526-PL_00017	CDS	561	finO			Fertility inhibition protein
+JS526-PL_00018	gene	747				
+JS526-PL_00018	CDS	747				hypothetical protein
+JS526-PL_00019	gene	5268	traI			
+JS526-PL_00019	CDS	5268	traI			Multifunctional conjugation protein TraI
+JS526-PL_00020	gene	411				
+JS526-PL_00020	CDS	411				hypothetical protein
+JS526-PL_00021	gene	993				
+JS526-PL_00021	CDS	993				hypothetical protein
+JS526-PL_00022	gene	633				
+JS526-PL_00022	CDS	633				hypothetical protein
+JS526-PL_00023	gene	387				
+JS526-PL_00023	CDS	387				hypothetical protein
+JS526-PL_00024	gene	2628	traC			
+JS526-PL_00024	CDS	2628	traC			Protein TraC
+JS526-PL_00025	gene	105				
+JS526-PL_00025	CDS	105				hypothetical protein
+JS526-PL_00026	gene	516	traV			
+JS526-PL_00026	CDS	516	traV			Protein TraV
+JS526-PL_00027	gene	252				
+JS526-PL_00027	CDS	252				hypothetical protein
+JS526-PL_00028	gene	198				
+JS526-PL_00028	CDS	198				hypothetical protein
+JS526-PL_00029	gene	591				
+JS526-PL_00029	CDS	591				hypothetical protein
+JS526-PL_00030	gene	1428				
+JS526-PL_00030	CDS	1428				hypothetical protein
+JS526-PL_00031	gene	729				
+JS526-PL_00031	CDS	729				hypothetical protein
+JS526-PL_00032	gene	567				
+JS526-PL_00032	CDS	567				hypothetical protein
+JS526-PL_00033	gene	312				
+JS526-PL_00033	CDS	312				hypothetical protein
+JS526-PL_00034	gene	366	traA			
+JS526-PL_00034	CDS	366	traA			Pilin
+JS526-PL_00035	gene	396	traY			
+JS526-PL_00035	CDS	396	traY			Relaxosome protein TraY
+JS526-PL_00036	gene	690	traJ			
+JS526-PL_00036	CDS	690	traJ			Protein TraJ
+JS526-PL_00037	gene	384	traM			
+JS526-PL_00037	CDS	384	traM			Relaxosome protein TraM
+JS526-PL_00038	gene	510				
+JS526-PL_00038	CDS	510				hypothetical protein
+JS526-PL_00039	gene	228	vapB			
+JS526-PL_00039	CDS	228	vapB		COG4456	Antitoxin VapB
+JS526-PL_00040	gene	399	vapC			
+JS526-PL_00040	CDS	399	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+JS526-PL_00041	gene	2154	traD			
+JS526-PL_00041	CDS	2154	traD			Coupling protein TraD
+JS526-PL_00042	gene	735	ylpA			
+JS526-PL_00042	CDS	735	ylpA			Lipoprotein YlpA
+JS526-PL_00043	gene	522	traS			
+JS526-PL_00043	CDS	522	traS			Protein TraS
+JS526-PL_00044	gene	2817				
+JS526-PL_00044	CDS	2817				hypothetical protein
+JS526-PL_00045	gene	1374				
+JS526-PL_00045	CDS	1374				hypothetical protein
+JS526-PL_00046	gene	381				
+JS526-PL_00046	CDS	381				hypothetical protein
+JS526-PL_00047	gene	282				
+JS526-PL_00047	CDS	282				hypothetical protein
+JS526-PL_00048	gene	546				
+JS526-PL_00048	CDS	546				hypothetical protein
+JS526-PL_00049	gene	285	traQ			
+JS526-PL_00049	CDS	285	traQ			Protein TraQ
+JS526-PL_00050	gene	315				
+JS526-PL_00050	CDS	315				hypothetical protein
+JS526-PL_00051	gene	348				
+JS526-PL_00051	CDS	348				hypothetical protein
+JS526-PL_00052	gene	744				
+JS526-PL_00052	CDS	744				hypothetical protein
+JS526-PL_00053	gene	258				
+JS526-PL_00053	CDS	258				hypothetical protein
+JS526-PL_00054	gene	1809	traN			
+JS526-PL_00054	CDS	1809	traN			Mating pair stabilization protein TraN
+JS526-PL_00055	gene	270				
+JS526-PL_00055	CDS	270				hypothetical protein
+JS526-PL_00056	gene	288				
+JS526-PL_00056	CDS	288				hypothetical protein

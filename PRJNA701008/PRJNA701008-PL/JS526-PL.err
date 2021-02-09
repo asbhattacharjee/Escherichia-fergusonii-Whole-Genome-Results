@@ -1,0 +1,207 @@
+Discrepancy Report Results
+
+Summary
+FATAL: BAD_LOCUS_TAG_FORMAT:56 locus tags are incorrectly formatted.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 56 present
+DISC_FEATURE_COUNT:CDS: 56 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+OVERLAPPING_GENES:31 genes overlap another gene on the same strand.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:1 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:57 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:BAD_LOCUS_TAG_FORMAT::56 locus tags are incorrectly formatted.
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	repE	JS526-PL_1:494-1249	JS526-PL_00001
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00002	JS526-PL_1:1837-3003	JS526-PL_00002
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	sopB	JS526-PL_1:3003-3815	JS526-PL_00003
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00004	JS526-PL_1:c4136-3702	JS526-PL_00004
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00005	JS526-PL_1:4948-5100	JS526-PL_00005
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00006	JS526-PL_1:c5927-5070	JS526-PL_00006
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00007	JS526-PL_1:c6402-5920	JS526-PL_00007
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00008	JS526-PL_1:c6960-6703	JS526-PL_00008
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00009	JS526-PL_1:c7450-7244	JS526-PL_00009
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	ssb	JS526-PL_1:8034-8573	JS526-PL_00010
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00011	JS526-PL_1:8630-8863	JS526-PL_00011
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	noc	JS526-PL_1:8929-10887	JS526-PL_00012
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	psiB	JS526-PL_1:10942-11376	JS526-PL_00013
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00014	JS526-PL_1:11373-12092	JS526-PL_00014
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	flmC	JS526-PL_1:12309-12521	JS526-PL_00015
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00016	JS526-PL_1:c14290-14102	JS526-PL_00016
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	finO	JS526-PL_1:c14985-14425	JS526-PL_00017
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00018	JS526-PL_1:c15786-15040	JS526-PL_00018
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traI	JS526-PL_1:c21073-15806	JS526-PL_00019
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00020	JS526-PL_1:c21480-21070	JS526-PL_00020
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00021	JS526-PL_1:c22481-21489	JS526-PL_00021
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00022	JS526-PL_1:c23110-22478	JS526-PL_00022
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00023	JS526-PL_1:c23493-23107	JS526-PL_00023
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traC	JS526-PL_1:c26117-23490	JS526-PL_00024
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00025	JS526-PL_1:c26284-26180	JS526-PL_00025
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traV	JS526-PL_1:c27148-26633	JS526-PL_00026
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00027	JS526-PL_1:c27396-27145	JS526-PL_00027
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00028	JS526-PL_1:c27605-27408	JS526-PL_00028
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00029	JS526-PL_1:c28182-27592	JS526-PL_00029
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00030	JS526-PL_1:c29599-28172	JS526-PL_00030
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00031	JS526-PL_1:c30327-29599	JS526-PL_00031
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00032	JS526-PL_1:c30880-30314	JS526-PL_00032
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00033	JS526-PL_1:c31213-30902	JS526-PL_00033
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traA	JS526-PL_1:c31593-31228	JS526-PL_00034
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traY	JS526-PL_1:c32021-31626	JS526-PL_00035
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traJ	JS526-PL_1:c32809-32120	JS526-PL_00036
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traM	JS526-PL_1:c33379-32996	JS526-PL_00037
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00038	JS526-PL_1:33793-34302	JS526-PL_00038
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	vapB	JS526-PL_1:34567-34794	JS526-PL_00039
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	vapC	JS526-PL_1:34794-35192	JS526-PL_00040
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traD	JS526-PL_1:c37354-35201	JS526-PL_00041
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	ylpA	JS526-PL_1:c38341-37607	JS526-PL_00042
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traS	JS526-PL_1:c38884-38363	JS526-PL_00043
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00044	JS526-PL_1:c41733-38917	JS526-PL_00044
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00045	JS526-PL_1:c43103-41730	JS526-PL_00045
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00046	JS526-PL_1:c43483-43103	JS526-PL_00046
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00047	JS526-PL_1:c43751-43470	JS526-PL_00047
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00048	JS526-PL_1:c44286-43741	JS526-PL_00048
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traQ	JS526-PL_1:c44557-44273	JS526-PL_00049
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00050	JS526-PL_1:44638-44952	JS526-PL_00050
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00051	JS526-PL_1:c45301-44954	JS526-PL_00051
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00052	JS526-PL_1:c46060-45317	JS526-PL_00052
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00053	JS526-PL_1:c46310-46053	JS526-PL_00053
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traN	JS526-PL_1:c48145-46337	JS526-PL_00054
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00055	JS526-PL_1:c48411-48142	JS526-PL_00055
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00056	JS526-PL_1:48519-48806	JS526-PL_00056
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 56 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 56 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+
+DiscRep_ALL:OVERLAPPING_GENES::31 genes overlap another gene on the same strand.
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00002	JS526-PL_1:1837-3003	JS526-PL_00002
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	sopB	JS526-PL_1:3003-3815	JS526-PL_00003
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00006	JS526-PL_1:c5927-5070	JS526-PL_00006
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00007	JS526-PL_1:c6402-5920	JS526-PL_00007
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	psiB	JS526-PL_1:10942-11376	JS526-PL_00013
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00014	JS526-PL_1:11373-12092	JS526-PL_00014
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traI	JS526-PL_1:c21073-15806	JS526-PL_00019
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00020	JS526-PL_1:c21480-21070	JS526-PL_00020
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00021	JS526-PL_1:c22481-21489	JS526-PL_00021
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00022	JS526-PL_1:c23110-22478	JS526-PL_00022
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00023	JS526-PL_1:c23493-23107	JS526-PL_00023
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traC	JS526-PL_1:c26117-23490	JS526-PL_00024
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traV	JS526-PL_1:c27148-26633	JS526-PL_00026
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00027	JS526-PL_1:c27396-27145	JS526-PL_00027
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00028	JS526-PL_1:c27605-27408	JS526-PL_00028
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00029	JS526-PL_1:c28182-27592	JS526-PL_00029
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00030	JS526-PL_1:c29599-28172	JS526-PL_00030
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00031	JS526-PL_1:c30327-29599	JS526-PL_00031
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00032	JS526-PL_1:c30880-30314	JS526-PL_00032
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	vapB	JS526-PL_1:34567-34794	JS526-PL_00039
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	vapC	JS526-PL_1:34794-35192	JS526-PL_00040
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00044	JS526-PL_1:c41733-38917	JS526-PL_00044
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00045	JS526-PL_1:c43103-41730	JS526-PL_00045
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00046	JS526-PL_1:c43483-43103	JS526-PL_00046
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00047	JS526-PL_1:c43751-43470	JS526-PL_00047
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00048	JS526-PL_1:c44286-43741	JS526-PL_00048
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traQ	JS526-PL_1:c44557-44273	JS526-PL_00049
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00052	JS526-PL_1:c46060-45317	JS526-PL_00052
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00053	JS526-PL_1:c46310-46053	JS526-PL_00053
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	traN	JS526-PL_1:c48145-46337	JS526-PL_00054
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Gene	JS526-PL_00055	JS526-PL_1:c48411-48142	JS526-PL_00055
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::1 protein sequences are shorter than 50 aa.
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00025 (length 34)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+
+DiscRep_ALL:MISSING_PROJECT::57 sequences do not include project.
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00001 (length 251)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00002 (length 388)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00003 (length 270)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00004 (length 144)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00005 (length 50)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00006 (length 285)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00007 (length 160)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00008 (length 85)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00009 (length 68)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00010 (length 179)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00011 (length 77)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00012 (length 652)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00013 (length 144)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00014 (length 239)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00015 (length 70)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00016 (length 62)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00017 (length 186)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00018 (length 248)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00019 (length 1755)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00020 (length 136)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00021 (length 330)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00022 (length 210)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00023 (length 128)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00024 (length 875)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00025 (length 34)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00026 (length 171)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00027 (length 83)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00028 (length 65)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00029 (length 196)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00030 (length 475)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00031 (length 242)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00032 (length 188)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00033 (length 103)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00034 (length 121)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00035 (length 131)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00036 (length 229)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00037 (length 127)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00038 (length 169)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00039 (length 75)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00040 (length 132)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00041 (length 717)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00042 (length 244)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00043 (length 173)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00044 (length 938)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00045 (length 457)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00046 (length 126)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00047 (length 93)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00048 (length 181)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00049 (length 94)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00050 (length 104)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00051 (length 115)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00052 (length 247)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00053 (length 85)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00054 (length 602)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00055 (length 89)
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_00056 (length 95)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+/Volumes/Ananda_Bioinformatics/Bioinformatic-Work-July-2020/Quinn/S1/PRJNA701008-PL/JS526-PL:Prokka:JS526-PL_1 (length 49476)
+
